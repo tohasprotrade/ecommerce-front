@@ -1,5 +1,4 @@
 import React from 'react'
-import banner from '../assets/banner.png'
 import banner1 from '../assets/banner1.png'
 import bannerMobile from '../assets/banner-mobile.jpg'
 import { useSelector } from 'react-redux'

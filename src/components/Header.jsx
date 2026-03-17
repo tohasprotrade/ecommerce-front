@@ -1,6 +1,4 @@
 import React, { useEffect, useState } from 'react'
-import logo from '../assets/logo.png'
-import screen from '../assets/screen.png'
 import logo1 from '../assets/logo1.png'
 import Search from './Search'
 import { Link, useLocation, useNavigate } from 'react-router-dom'
