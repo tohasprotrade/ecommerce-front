@@ -1,5 +1,6 @@
 import React from 'react'
-import banner from '../assets/banner.jpg'
+import banner from '../assets/banner.png'
+import banner1 from '../assets/banner1.png'
 import bannerMobile from '../assets/banner-mobile.jpg'
 import { useSelector } from 'react-redux'
 import { valideURLConvert } from '../utils/valideURLConvert'
@@ -33,7 +34,7 @@ const Home = () => {
       <div className='w-full'>
         <div className='w-full rounded-lg overflow-hidden'>
           <img
-            src={banner}
+            src={banner1}
             className='w-full hidden md:block'
             alt='banner'
           />
